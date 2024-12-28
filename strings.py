@@ -2,11 +2,11 @@
 #print("GiraffeAcadamy")
 phrase = "avadhoot"
 
-# # print(phrase + " is cool") #strings concat
+ print(phrase + " is cool") #strings concat
 
-# # print(phrase.upper()) #turns string into upper case
+ print(phrase.upper()) #turns string into upper case
 
-# # print(phrase.lower()) #turns string into lower case
+ print(phrase.lower()) #turns string into lower case
 
 # # print(phrase.isupper()) #return true if string is in upper case
 
