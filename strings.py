@@ -1,11 +1,15 @@
 #Working with strings
 #print("GiraffeAcadamy")
 phrase = "avadhoot"
-
-
-
 print(phrase + " is cool") #strings concat
 print(phrase.upper()) #turns string into upper case
+
+print(phrase + " is cool") #strings concat
+
+print(phrase.upper()) #turns string into upper case
+
+print(phrase.lower()) #turns string into lower case
+
 
 print(phrase.lower()) #turns string into lower case
 
